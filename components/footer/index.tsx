@@ -12,46 +12,11 @@ export default function () {
             </p>
             <div className="mb-8 mt-6">{/* <Social /> */}</div>
           </div>
-          <div className="flex grow flex-row flex-wrap lg:mx-10 lg:flex-nowrap lg:justify-center">
-            <div className="my-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10 lg:mt-0">
-              <p className="font-inter font-medium text-black">其他作品</p>
-              <a
-                href="https://gpts.works"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                GPTs Works
-              </a>
-              <a
-                href="https://gptalk.one"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                GPTalk
-              </a>
-              <a
-                href="https://readknown.cn"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                知了 zKnown
-              </a>
-            </div>
-            <div className="my-5 mr-8 flex max-w-[200px] grow basis-[100px] flex-col space-y-5 lg:mx-10 lg:mt-0">
-              <p className="font-inter font-medium text-black">友情链接</p>
-              <a
-                href="https://aiwallpaper.shop"
-                target="_blank"
-                className="font-inter font-light text-gray-500"
-              >
-                AI Wallpaper
-              </a>
-            </div>
-          </div>
+           
           <div className="mt-10 flex flex-col lg:mt-0">
             <div className="mb-4 flex flex-row items-center">
-              <p className="block">联系作者: </p>
-              <p className="font-inter ml-4 text-black">me@idoubi.cc</p>
+              <p className="block">联系方式: </p>
+              <p className="font-inter ml-4 text-black">lizhe2004#gmail#com</p>
             </div>
           </div>
         </div>

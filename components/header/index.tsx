@@ -13,7 +13,7 @@ export default function () {
     {
       name: "doc",
       title: "定制微信红包封面",
-      url: "https://cover.weixin.qq.com/cgi-bin/mmcover-bin/readtemplate?t=page/index#/doc?page=design&index=-1",
+      url: "#",
       target: "_blank",
     },
   ];
