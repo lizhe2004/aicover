@@ -3,7 +3,7 @@ const nextConfig = {
   images: {
     domains: [
       "oaidalleapiprodscus.blob.core.windows.net",
-      "trysai.s3.us-west-1.amazonaws.com",
+      "ai-cover-images.s3.us-east-1.amazonaws.com",
     ],
   },
 };
